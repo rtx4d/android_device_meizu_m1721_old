@@ -49,7 +49,7 @@ vendor/lib64/libadiertac.so|98a8c2702d4e203689e4a80c69c4b1cf93af1567
 vendor/lib64/libaudcal.so|213bdd87ec3339042796f62605e38690e2500fd6
 vendor/lib64/libaudioalsa.so|534d4dc07fecea0611273c745721b1ed2015a3a3
 
-# Audio - daisy
+# Audio - from daisy-user 10 QKQ1.191002.002 V11.0.18.0.QDLMIXM release-keys
 vendor/lib/libaudioparsers.so
 vendor/lib64/libaudioparsers.so
 
