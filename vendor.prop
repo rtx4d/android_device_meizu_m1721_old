@@ -75,9 +75,6 @@ persist.vendor.cne.feature=1
 persist.vendor.mwqem.enable=1
 
 # Display
-ro.hardware.vulkan=adreno
-ro.hardware.egl=adreno
-ro.opengles.version=196610
 ro.vendor.display.cabl=2
 vendor.display.disable_skip_validate=1
 vendor.gralloc.enable_fb_ubwc=1
@@ -99,7 +96,6 @@ debug.stagefright.omx_default_rank=0
 vendor.vidc.disable.split.mode=1
 
 # Perf
-ro.vendor.extension_library=libqti-perfd-client.so
 ro.vendor.qti.sys.fw.bservice_enable=true
 
 # Radio
